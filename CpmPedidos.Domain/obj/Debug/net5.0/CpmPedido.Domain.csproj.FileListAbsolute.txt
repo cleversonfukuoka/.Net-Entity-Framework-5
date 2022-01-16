@@ -1,0 +1,11 @@
+D:\# Estudos 2021\.Net 5 Entity Framework\CpmPedidos\CpmPedidos.Domain\bin\Debug\net5.0\CpmPedido.Domain.deps.json
+D:\# Estudos 2021\.Net 5 Entity Framework\CpmPedidos\CpmPedidos.Domain\bin\Debug\net5.0\CpmPedido.Domain.dll
+D:\# Estudos 2021\.Net 5 Entity Framework\CpmPedidos\CpmPedidos.Domain\bin\Debug\net5.0\ref\CpmPedido.Domain.dll
+D:\# Estudos 2021\.Net 5 Entity Framework\CpmPedidos\CpmPedidos.Domain\bin\Debug\net5.0\CpmPedido.Domain.pdb
+D:\# Estudos 2021\.Net 5 Entity Framework\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\CpmPedido.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\# Estudos 2021\.Net 5 Entity Framework\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\CpmPedido.Domain.AssemblyInfoInputs.cache
+D:\# Estudos 2021\.Net 5 Entity Framework\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\CpmPedido.Domain.AssemblyInfo.cs
+D:\# Estudos 2021\.Net 5 Entity Framework\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\CpmPedido.Domain.csproj.CoreCompileInputs.cache
+D:\# Estudos 2021\.Net 5 Entity Framework\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\CpmPedido.Domain.dll
+D:\# Estudos 2021\.Net 5 Entity Framework\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\ref\CpmPedido.Domain.dll
+D:\# Estudos 2021\.Net 5 Entity Framework\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\CpmPedido.Domain.pdb
