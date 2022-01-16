@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\# Estudos 2021\\.Net 5 Entity Framework\\CpmPedidos\\CpmPedido.Interface\\CpmPedido.Interface.csproj": {}
+  },
+  "projects": {
+    "D:\\# Estudos 2021\\.Net 5 Entity Framework\\CpmPedidos\\CpmPedido.Interface\\CpmPedido.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\# Estudos 2021\\.Net 5 Entity Framework\\CpmPedidos\\CpmPedido.Interface\\CpmPedido.Interface.csproj",
+        "projectName": "CpmPedido.Interface",
+        "projectPath": "D:\\# Estudos 2021\\.Net 5 Entity Framework\\CpmPedidos\\CpmPedido.Interface\\CpmPedido.Interface.csproj",
+        "packagesPath": "C:\\Users\\Cleverson\\.nuget\\packages\\",
+        "outputPath": "D:\\# Estudos 2021\\.Net 5 Entity Framework\\CpmPedidos\\CpmPedido.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cleverson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\# Estudos 2021\\.Net 5 Entity Framework\\CpmPedidos\\CpmPedidos.Domain\\CpmPedido.Domain.csproj": {
+                "projectPath": "D:\\# Estudos 2021\\.Net 5 Entity Framework\\CpmPedidos\\CpmPedidos.Domain\\CpmPedido.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\# Estudos 2021\\.Net 5 Entity Framework\\CpmPedidos\\CpmPedidos.Domain\\CpmPedido.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\# Estudos 2021\\.Net 5 Entity Framework\\CpmPedidos\\CpmPedidos.Domain\\CpmPedido.Domain.csproj",
+        "projectName": "CpmPedido.Domain",
+        "projectPath": "D:\\# Estudos 2021\\.Net 5 Entity Framework\\CpmPedidos\\CpmPedidos.Domain\\CpmPedido.Domain.csproj",
+        "packagesPath": "C:\\Users\\Cleverson\\.nuget\\packages\\",
+        "outputPath": "D:\\# Estudos 2021\\.Net 5 Entity Framework\\CpmPedidos\\CpmPedidos.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cleverson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
